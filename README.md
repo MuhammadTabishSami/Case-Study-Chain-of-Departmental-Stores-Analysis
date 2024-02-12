@@ -1,3 +1,6 @@
+# Dashboard
+
+![image](https://github.com/MuhammadTabishSami/Case-Study-Chain-of-Departmental-Stores-Analysis/assets/155018693/f7cd5e9f-4c35-48c5-9777-5bd4491553a9)
 
 # Case Study: Chain of Departmental Stores Analysis
 
