@@ -55,6 +55,8 @@ Here’s the framework I’ve created for conducting this case study.
 
 Employed a data schema using star schema approach to establish relationship between different tables.
 
+![App Screenshot](https://github.com/MuhammadTabishSami/Case-Study-Chain-of-Departmental-Stores-Analysis/blob/master/Data%20Model.jpg?raw=true)
+
 **KPIs and Measures**
 
 Employed calculated measures to create Key Performance Indicators (KPIs) showing total sales, YTD sales current year, YTD sales previous year, total commission for managers using Data Analysis Expressions (DAX) in Power BI.
